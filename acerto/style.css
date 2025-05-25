@@ -1,0 +1,43 @@
+@charset 'utf-8';
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-image: url(https://img.freepik.com/fotos-gratis/festa-de-halloween_23-2148603731.jpg?semt=ais_hybrid&w=740);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+h1{
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.37);
+    width: 400px;
+    margin: auto;
+    font-family: cursive;
+    margin-top: 10px;
+    
+}
+
+img{
+    margin-left: 70px;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 200px;
+    border: none;
+    
+}
+
+input:hover{
+    background-color: rgba(128, 128, 128, 0.37);
+}
